@@ -11,7 +11,7 @@ Participants can be enrolled manually into sessions one by one or in multiples.
 
 ### Students
 #### Enrolling Groups of Students by Activity – Best used when enrolling multiple students in one activity 
-- Go to `Enrollment` &rightarrow; `Enroll by Activity`.
+- Go to `Enrollment` &#8594; `Enroll by Activity`.
 -	On the left, you will see a list of activity categories and associated sessions. Select the activity category and then the session that you wish to enroll the participants into.
 -	To the right, you will see a list of participants eligible to attend the session. Check the box in the `Enroll` column for the participant(s) you wish to enroll in the class.
 -	Once you have selected all participants, you can click one of the following buttons:
@@ -21,7 +21,7 @@ Participants can be enrolled manually into sessions one by one or in multiples.
     -	`Enroll on Registration Date`: To enroll the participants on the date they registered.
 
 Enrolling Individual Students into Multiple Activities – Best used when enrolling individual students in multiple activities
--	Go to `Enrollment` &rigtharrow; `Enroll by Participant`.
+-	Go to `Enrollment` &#8594; `Enroll by Participant`.
 -	Select the participant that you wish to enroll into classes from the participant list on the left.
 -	A list of eligible classes will appear on the right. Check the box in the `Enroll` column for the class(es) you wish to enroll the participant into.
 -	Once you have selected all classes, you can click one of the following buttons:
