@@ -20,7 +20,7 @@ In this section:
 -	To limit data entry errors, search for students by their name or grade level. The easiest way to search for a name is to enter the first two letters of the first or last name and click “find”, which will bring up a list of all students with first or last names starting with those letters. This ensures that if there was a data entry mistake, such as misspelling the name or swapping the first and last name, the student will be found in the system. 
 
 #### Adding Students Individually
--	Go to `Registration` &rightarrow; `Students`
+-	Go to `Registration` &#8594; `Students`
 -	In the `Active` tab, click on the `Add Student` button.
 -	EZReports will ask if a student has a sibling in the system. Click `CANCEL` to bypass this feature and reach the `Add Registration` page.
 -	Enter required fields for the student. 
@@ -36,7 +36,7 @@ In this section:
 ### Adults
 #### Adding Adult Participant Information (parents & community members)
 **Required Fields:** first name, last name, and registration date.
--	Go to `Registration` &rightarrow; `Adults`.
+-	Go to `Registration` &#8594; `Adults`.
 -	In the `Active` tab, click on the `Add Adult` button.
 -	EZReports will ask if the adult has a child in the system. If the adult is not a parent or guardian of a student, click `CANCEL` to bypass this feature and reach the `Add Registration` page.
 -	Enter required fields for the adult. 
@@ -47,7 +47,7 @@ In this section:
 ### Staff
 #### Adding Staff Information (teachers, facilitators & teaching artists)
 **Required Fields:** first name, last name, gender, highest education level attained, **Staff Type** (select school day teachers, or <u>subcontracted staff</u> for CBO facilitators), email, start date, 21st CCLC Funded: **“Is this person funded by 21st CCLC?”** (__*always*__ answer “yes”), job title, and Payment Type. 
--	Go to `Admin` &rightarrow; `Staff`.
+-	Go to `Admin` &#8594; `Staff`.
 -	Click on the “Add Staff” button.
 -	Enter required information for the staff member. 
 -	Click `Save & Close`.
