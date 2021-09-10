@@ -30,3 +30,6 @@ Enrolling Individual Students into Multiple Activities – Best used when enroll
     -	`Enroll on a Specific Date`: To enroll the participant on a specific date. A pop-up is displayed where you can specify the enrollment date.
     -	`Enroll on Registration Date`: To enroll the participant on the date they registered.
 
+<br>
+
+[Here: Other content.]
