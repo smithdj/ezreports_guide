@@ -13,7 +13,7 @@ EZREPORTS DATA ENTRY GUIDE
 
 ____
 
-How to...
+**How to...**
 
 [Add Participants](/add_participants.md)
 
