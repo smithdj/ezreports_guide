@@ -46,7 +46,7 @@ In this section:
 
 ### Staff
 #### Adding Staff Information (teachers, facilitators & teaching artists)
--	Required fields: first name, last name, gender, highest education level attained, Staff Type (select school day teachers, or subcontracted staff for CBO facilitators), email, start date, 21ST CCLC Funded: “Is this person funded by 21st CCLC?” (always answer “yes”), job title, and Payment Type. 
+-	Required fields: first name, last name, gender, highest education level attained, <u>Staff Type</u> (select school day teachers, or <u>subcontracted staff</u> for CBO facilitators), email, start date, 21st CCLC Funded: <u>“Is this person funded by 21st CCLC?”</u> (<u>*always*</u> answer “yes”), job title, and Payment Type. 
 -	Go to `Admin` &rightarrow; `Staff`.
 -	Click on the “Add Staff” button.
 -	Enter required information for the staff member. 
