@@ -1,6 +1,5 @@
-21st Century Community Learning Centers   
-EZREPORTS DATA ENTRY GUIDE    
-==========================
+**21st Century Community Learning Centers**
+# EZREPORTS DATA ENTRY GUIDE    
 
 <br>
 
