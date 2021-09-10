@@ -17,7 +17,7 @@ EZReports requires activity categories to be created to group multiple activitie
 
 ### Activity Categories
 #### Adding Activity Categories for Regular Student Activities
-- Go to `Activities` &rightarrow; `Regular Activities`.
+- Go to `Activities` &#8594; `Regular Activities`.
 - Click `Add Activities` button.
 - Specify the Activity Category name from a predefined list of categories; this is the broader name, e.g., "Academic Enrichment". 
 - Ensure that the targeted audience and participant fields indicate only students.
@@ -32,7 +32,7 @@ EZReports requires activity categories to be created to group multiple activitie
 
 ### Activity Sessions
 #### Adding Sessions for Regular Student Activities after you’ve set up your activity categories:
-- Go to `Activities` &rightarrow; `Regular Activities`.
+- Go to `Activities` &#8594; `Regular Activities`.
 - Click the activity category for which you want to add a session. Click on the `Add Session` link. 
 - Name the Activity Session with a descriptive title, including if the activity is virtual or asynchronous. For example, if you are adding an activity in the Academic Enrichment category, the Session Name could be “Grade 3 Math Tutoring Ms. Johnson”. 
     - Note: The Session Names are what L&G sees when they evaluate program data and produce the weekly update.
