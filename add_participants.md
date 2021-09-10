@@ -35,7 +35,7 @@ In this section:
 
 ### Adults
 #### Adding Adult Participant Information (parents & community members)
--	Required Fields: first name, last name, and registration date.
+**Required Fields:** first name, last name, and registration date.
 -	Go to `Registration` &rightarrow; `Adults`.
 -	In the `Active` tab, click on the `Add Adult` button.
 -	EZReports will ask if the adult has a child in the system. If the adult is not a parent or guardian of a student, click `CANCEL` to bypass this feature and reach the `Add Registration` page.
@@ -46,7 +46,7 @@ In this section:
 
 ### Staff
 #### Adding Staff Information (teachers, facilitators & teaching artists)
--	Required fields: first name, last name, gender, highest education level attained, <u>Staff Type</u> (select school day teachers, or <u>subcontracted staff</u> for CBO facilitators), email, start date, 21st CCLC Funded: <u>“Is this person funded by 21st CCLC?”</u> (<u>*always*</u> answer “yes”), job title, and Payment Type. 
+**Required Fields:** first name, last name, gender, highest education level attained, <u>Staff Type</u> (select school day teachers, or <u>subcontracted staff</u> for CBO facilitators), email, start date, 21st CCLC Funded: <u>“Is this person funded by 21st CCLC?”</u> (<u>*always*</u> answer “yes”), job title, and Payment Type. 
 -	Go to `Admin` &rightarrow; `Staff`.
 -	Click on the “Add Staff” button.
 -	Enter required information for the staff member. 
