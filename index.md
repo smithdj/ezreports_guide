@@ -10,4 +10,4 @@
 
 [Set Up Student Activities](/set_up_student_activities.md)
 
-[Enroll or Drop Participants](/enrolling_dropping_students.md)
+[Enroll or Drop Participants](/enroll_drop_participants.md)
