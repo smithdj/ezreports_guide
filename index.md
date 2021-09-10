@@ -1,1 +1,1 @@
-## EZReports Guide
+# EZReports Guide
